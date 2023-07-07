@@ -1,0 +1,1 @@
+pip3.11 install torch torchvision datasets transformers
